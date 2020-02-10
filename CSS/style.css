@@ -10,7 +10,7 @@ h2.title {
     margin-top: 30px;
 }
 .promo {
-    height: 800px;
+    min-height: 800px;
     background: url('../img/bg/main_bg.jpg') center center/cover no-repeat;
     padding: 39px 0 62px 0;
 }
